@@ -16,7 +16,7 @@ The dataset includes:
 - 5 EV charging stations  
 - 6 vehicle models  
 - 8 customers  
-- 224 charging sessions over a 30-day period  
+- 223 charging sessions over a 30-day period  
 
 ---
 
